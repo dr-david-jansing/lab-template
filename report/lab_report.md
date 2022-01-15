@@ -1,4 +1,3 @@
 # Laboratory XX
-## Full Name Here
-## Due Date
-       
+## Full Name Here <br> Date:  MM/DD/YYYY
+
